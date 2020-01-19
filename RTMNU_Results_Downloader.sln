@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTMNUResultsDownloader", "RTMNUResultsDownloader\RTMNUResultsDownloader.csproj", "{8448C292-D909-4F6A-9221-7F1256AD10AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebImageLib", "WebImageLib\WebImageLib.csproj", "{223FD01A-3D77-4962-AF31-1E68BDEB0309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8448C292-D909-4F6A-9221-7F1256AD10AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8448C292-D909-4F6A-9221-7F1256AD10AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8448C292-D909-4F6A-9221-7F1256AD10AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8448C292-D909-4F6A-9221-7F1256AD10AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223FD01A-3D77-4962-AF31-1E68BDEB0309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223FD01A-3D77-4962-AF31-1E68BDEB0309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223FD01A-3D77-4962-AF31-1E68BDEB0309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223FD01A-3D77-4962-AF31-1E68BDEB0309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76C7A92-FE67-4297-A187-729AB0099A2C}
+	EndGlobalSection
+EndGlobal
